@@ -6,7 +6,7 @@ title: Khuzur Privacy Policy
 
 This is the privacy policy for the card game "Khuzur" by Calm Steel Apps, on Android and the web.
 
-*Last updated: 28 September 2026*
+*Last updated: 8 October 2026*
 
 ## In short
 
@@ -20,7 +20,7 @@ Send me a [quick mail](mailto:calmsteel.apps@gmail.com) if you have any question
 
 The game saves a few things on your device so it can remember them:
 
-- **Settings** (sounds, haptic feedback, card sorting, left-handed layout, high contrast), until you change them.
+- **Settings** (sound volumes, haptic feedback strength, left-handed layout, high contrast), until you change them.
 - **Statistics** (games played, won and lost), until you reset them in Settings.
 - **A session code for each online room you join**, so you can reconnect if your connection drops. These are deleted when the room closes, and after 3 hours at most.
 
@@ -35,7 +35,7 @@ Online games run on a small game server hosted by [Cloudflare](https://www.cloud
 - the app version, so very old versions can be asked to update;
 - your moves.
 
-None of this is linked to your name or your device. The game itself (the cards, the table and the deck) is only kept in the server's memory while the room is open. It isn't saved, and it's gone once the game ends, both players leave, or the room closes: a room waiting for a friend closes after a few minutes, and every room closes after a few hours at most.
+None of this is linked to your name or your device. The game itself (the cards, the table and the deck) is kept on the game server only while the room is open, so that a game can carry on if a connection or the server briefly drops. It's deleted when the room closes: when both players leave, a few minutes after a game ends without a rematch, a few minutes after creating a room if nobody joins, and after a few hours at most.
 
 The only thing kept afterwards is a small record of how each game ended (the random session code and the result), so that a player who reconnects late is told the right outcome. It's deleted automatically after a few hours.
 
@@ -54,7 +54,7 @@ The How to Play guide can show a video hosted on YouTube. **Nothing is loaded fr
 The Android app only uses:
 
 - **Internet**, for playing with friends online.
-- **Vibration**, for haptic feedback (you can turn it off in Settings).
+- **Vibration**, for haptic feedback (you can choose its strength, or turn it off, in Settings).
 
 It doesn't access your location, camera, microphone, contacts, photos or files.
 

@@ -6,7 +6,7 @@ title: Khuzur Privacy Policy
 
 This is the privacy policy for the card game "Khuzur" by Calm Steel Apps, on Android and the web.
 
-*Last updated: 8 October 2026*
+*Last updated: 13 October 2026*
 
 ## In short
 
@@ -20,11 +20,12 @@ Send me a [quick mail](mailto:calmsteel.apps@gmail.com) if you have any question
 
 The game saves a few things on your device so it can remember them:
 
-- **Settings** (sound volumes, haptic feedback strength, left-handed layout, high contrast), until you change them.
+- **Settings** (language, sound volumes, haptic feedback strength, left-handed layout, high contrast), until you change them.
 - **Statistics** (games played, won and lost), until you reset them in Settings.
+- **A game against the computer that you haven't finished**, so you can carry on where you left off. It's deleted when the game ends, when you leave it, or when you start a new one.
 - **A session code for each online room you join**, so you can reconnect if your connection drops. These are deleted when the room closes, and after 3 hours at most.
 
-Your settings and statistics never leave your device. Clearing the app's data or uninstalling it removes everything.
+Your settings, statistics and saved game never leave your device. Clearing the app's data or uninstalling it removes everything.
 
 ## Playing with a friend
 
@@ -69,3 +70,5 @@ If anything changes, I'll update this page and the date at the top.
 ## Contact
 
 Questions or requests about your privacy? Contact Calm Steel Apps at [calmsteel.apps@gmail.com](mailto:calmsteel.apps@gmail.com).
+
+**Sending feedback from the app.** About → Send Feedback opens your own email app with your message ready to send. It can add a few details to help with bug reports: the app version, your system (for example Android 14), your phone model, the app's language and your screen size. They're listed on the form, you can leave them out, and nothing is sent until you send the email yourself. Emails are only used to reply to you and fix problems.

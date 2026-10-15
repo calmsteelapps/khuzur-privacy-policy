@@ -6,7 +6,7 @@ title: Khuzur Privacy Policy
 
 This is the privacy policy for the card game "Khuzur" by Calm Steel Apps, on Android and the web.
 
-*Last updated: 13 October 2026*
+*Last updated: 15 October 2026*
 
 ## In short
 
@@ -26,6 +26,8 @@ The game saves a few things on your device so it can remember them:
 - **A session code for each online room you join**, so you can reconnect if your connection drops. These are deleted when the room closes, and after 3 hours at most.
 
 Your settings, statistics and saved game never leave your device. Clearing the app's data or uninstalling it removes everything.
+
+If Android backup is turned on, your device may include the app’s settings and statistics in your personal Google backup, so they can be restored on a new phone. This is handled by Android and Google; I never receive it.
 
 ## Playing with a friend
 

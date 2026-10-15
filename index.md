@@ -6,7 +6,7 @@ title: Khuzur Privacy Policy
 
 This is the privacy policy for the card game "Khuzur" by Calm Steel Apps, on Android and the web.
 
-*Last updated: 15 October 2026*
+*Last updated: 16 October 2026*
 
 ## In short
 
@@ -51,6 +51,10 @@ Your opponent only sees what the game needs to show: how many cards you hold and
 ## How to Play video
 
 The How to Play guide can show a video hosted on YouTube. **Nothing is loaded from YouTube unless you tap the video to play it.** It then loads in YouTube's privacy-enhanced mode, and YouTube (Google) receives your IP address and may store information on your device under [Google's privacy policy](https://policies.google.com/privacy). Closing the guide removes the video.
+
+## Links to other websites
+
+The About and Credits pages link to the websites of the people and projects whose work the app uses, and to this policy. They open in your browser only when you tap them, and those websites have their own privacy policies.
 
 ## Permissions
 

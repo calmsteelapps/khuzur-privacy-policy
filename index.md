@@ -6,7 +6,7 @@ title: Khuzur Privacy Policy
 
 This is the privacy policy for the app "Khuzur – Mongolian Card Game" by Calm Steel Apps on Android.
 
-*Last updated: 16 October 2026*
+*Last updated: 19 October 2026*
 
 ## In short
 
@@ -27,6 +27,8 @@ The game saves a few things on your device so it can remember them:
 
 Your settings, statistics and saved game never leave your device. Clearing the app's data or uninstalling it removes everything.
 
+Your settings, statistics and saved game never leave your device. Clearing the app's data or uninstalling it removes everything.
+
 If Android backup is turned on, your device may include the app's settings and statistics in your personal Google backup, so they can be restored on a new phone. This is handled by Android and Google; I never receive it.
 
 ## Playing with a friend
@@ -35,7 +37,7 @@ Online games run on a small game server hosted by [Cloudflare](https://www.cloud
 
 - the room code you created or entered, and whether you're hosting or joining;
 - a random connection ID and session code, so you can reconnect if your connection drops;
-- the app version, so very old versions can be asked to update;
+- the app's name and version (the same for every player), so the server can check it's this app and ask very old versions to update;
 - your moves.
 
 None of this is linked to your name or your device. The game itself (the cards, the table and the deck) is kept on the game server only while the room is open, so that a game can carry on if a connection or the server briefly drops. It's deleted when the room closes: when both players leave, a few minutes after a game ends without a rematch, a few minutes after creating a room if nobody joins, and after a few hours at most.

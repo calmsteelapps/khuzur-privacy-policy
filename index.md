@@ -6,7 +6,7 @@ title: Khuzur Privacy Policy
 
 This is the privacy policy for the app "Khuzur – Mongolian Card Game" by Calm Steel Apps on Android.
 
-*Last updated: 19 October 2026*
+*Last updated: 22 October 2026*
 
 ## In short
 
@@ -24,12 +24,11 @@ The game saves a few things on your device so it can remember them:
 - **Statistics** (games played, won and lost), until you reset them in Settings.
 - **A game against the computer that you haven't finished**, so you can carry on where you left off. It's deleted when the game ends, when you leave it, or when you start a new one.
 - **A session code for each online room you join**, so you can reconnect if your connection drops. These are deleted when the room closes, and after 3 hours at most.
+- **Whether you've seen the welcome note**, so it's only shown once.
 
 Your settings, statistics and saved game never leave your device. Clearing the app's data or uninstalling it removes everything.
 
-Your settings, statistics and saved game never leave your device. Clearing the app's data or uninstalling it removes everything.
-
-If Android backup is turned on, your device may include the app's settings and statistics in your personal Google backup, so they can be restored on a new phone. This is handled by Android and Google; I never receive it.
+If Android backup is turned on, your phone may include the app's settings and statistics in your personal Google backup, so they can be restored on a new phone. This is handled by Android and Google; I never receive it.
 
 ## Playing with a friend
 
@@ -56,7 +55,7 @@ The How to Play guide can show a video hosted on YouTube. **Nothing is loaded fr
 
 ## Links to other websites
 
-The About and Credits pages link to the websites of the people and projects whose work the app uses, and to this policy. They open in your browser only when you tap them, and those websites have their own privacy policies.
+*About* and *Credits & Licences* link to the websites of the people and projects whose work the app uses, and to this privacy policy. They open in your browser only when you tap them, and those websites have their own privacy policies.
 
 ## Permissions
 
